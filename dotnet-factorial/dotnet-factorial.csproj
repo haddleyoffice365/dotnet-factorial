@@ -3,6 +3,10 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>dotnet_factorial</RootNamespace>
+
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageId>HaddleyOffice365.dotnet-factorial</PackageId>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
 </Project>
